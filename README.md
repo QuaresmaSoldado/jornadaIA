@@ -1,0 +1,2 @@
+# jornadaIA
+Inteligência artificial
